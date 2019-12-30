@@ -54,7 +54,7 @@ exclude:
   - Gemfile
   - Gruntfile.js
   - LICENSE
-  - README
+  - Readme.md
   - Rakefile
   - config
   - gulpfile.js
