@@ -4,12 +4,10 @@ title: About
 image: /images/about/1.jpg
 ---
 
-I am a student in Oregon.
-I cosplay, play piano, and chat with my friends.
+Hellooo, everyone! I'm RandomJam! I'm a beginning artist and cosplayer, and am an avid follower of creators like Dollightful and Lavendertowne. I will periodically feature some of my friend LilacPebbles art here as well, so check out her stuff!!! 
 
-<br>
-<br>
+Links to these amazing artists instagrams😍:
 
-<center class="image-grid">
-<img src="/about/profile.jpg" style="grid-column: 1 / span 2;" title="Profile image of randomjam">
-</center>
+* [Dollightful](https://www.instagram.com/dollightfully/?hl=en)
+* [Lavendertowne](https://www.instagram.com/lavendertowne/?hl=en)
+* [LilacPebbles](https://www.instagram.com/lilacpebbles/?hl=en)
