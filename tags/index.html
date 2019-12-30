@@ -34,7 +34,7 @@ this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
   <ul>
     {% for post in site.tags[this_word] %} {% if post.title != null %}
     <li>
-      <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"
+      <a href="{{ root_url }}{{ post.url }}" title="{{ post.title }}"
         >{{ post.title }} ({{ post.date | date: "%B %d, %Y" }})</a
       >
     </li>
