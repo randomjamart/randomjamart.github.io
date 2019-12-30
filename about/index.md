@@ -5,7 +5,7 @@ image: /images/about/1.jpg
 ---
 
 I am a student in Oregon.
-I read anime, play piano, and chat with my friends.
+I cosplay, play piano, and chat with my friends.
 
 <br>
 <br>
