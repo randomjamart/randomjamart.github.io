@@ -1,8 +1,9 @@
 ---
 layout: post
 title: About
-image: /images/about/1.jpg
 ---
+
+![Profile image of RandomJam](/about/profile.jpg)
 
 Hellooo, everyone! I'm RandomJam! I'm a beginning artist and cosplayer, and am an avid follower of creators like Dollightful and Lavendertowne. I will periodically feature some of my friend LilacPebbles art here as well, so check out her stuff!!! 
 
